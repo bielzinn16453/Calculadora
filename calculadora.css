@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(91, 174, 199);
+    color: white;
+    width: auto;
+    margin: 15px 0px;
+
+}
+
+button {
+    transform: scale(1.0);
+}
